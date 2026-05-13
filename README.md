@@ -220,6 +220,3 @@ Used for:
 
 ---
 
-## 👨‍💻 Author
-
-Developed as part of an **Audio & Speech Processing** course project focusing on forensic speaker verification using deep learning and signal processing techniques.

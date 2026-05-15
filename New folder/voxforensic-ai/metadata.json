@@ -1,0 +1,12 @@
+{
+  "name": "VoxForensic AI",
+  "description": "State-of-the-art forensic voice verification and identification platform using advanced neural embeddings and deep signal analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Audio Analysis",
+    "Speaker Identification",
+    "Forensic Reporting"
+  ]
+}

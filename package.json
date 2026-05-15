@@ -1,0 +1,10 @@
+{
+  "name": "voxforensic-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix \"./New folder/voxforensic-ai\" run dev",
+    "dev:vite": "npm --prefix \"./New folder/voxforensic-ai\" run dev:vite",
+    "build": "npm --prefix \"./New folder/voxforensic-ai\" run build",
+    "lint": "npm --prefix \"./New folder/voxforensic-ai\" run lint"
+  }
+}
